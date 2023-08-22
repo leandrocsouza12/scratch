@@ -6,3 +6,6 @@
 Introduçao a logica de programaçao com scratch
 ## Autor
 Leandro Cordeiro de Souza
+
+## Projetos
+[calculo da media](https://scratch.mit.edu/projects/881967013/editor)
