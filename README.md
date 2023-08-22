@@ -8,10 +8,10 @@ Introduçao a logica de programaçao com scratch
 Leandro Cordeiro de Souza
 
 ## Projetos
-- [calculo da media](https://scratch.mit.edu/projects/881967013/editor)
-- [conversao de temperatura](https://scratch.mit.edu/projects/882921533/editor)
-- [libras x kilo](https://scratch.mit.edu/projects/884623502/editor)
-- [custo x venda](https://scratch.mit.edu/projects/884629932/editor)
-- [milhas x km](https://scratch.mit.edu/projects/884617829/editor)
-- [pdv](https://scratch.mit.edu/projects/883235893/editor)
-- [regra de 3](https://scratch.mit.edu/projects/882923231/editor)
+- [calculo da media](https://scratch.mit.edu/projects/881967013/)
+- [conversao de temperatura](https://scratch.mit.edu/projects/882921533/)
+- [libras x kilo](https://scratch.mit.edu/projects/884623502/)
+- [custo x venda](https://scratch.mit.edu/projects/884629932/)
+- [milhas x km](https://scratch.mit.edu/projects/884617829/)
+- [pdv](https://scratch.mit.edu/projects/883235893/)
+- [regra de 3](https://scratch.mit.edu/projects/882923231/)
