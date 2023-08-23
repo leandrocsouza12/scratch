@@ -15,3 +15,4 @@ Leandro Cordeiro de Souza
 - [milhas x km](https://scratch.mit.edu/projects/884617829/)
 - [pdv](https://scratch.mit.edu/projects/883235893/)
 - [regra de 3](https://scratch.mit.edu/projects/882923231/)
+- [HORAS DE TRABALHO](https://scratch.mit.edu/projects/885215194/)
