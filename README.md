@@ -16,3 +16,6 @@ Leandro Cordeiro de Souza
 - [pdv](https://scratch.mit.edu/projects/883235893/)
 - [regra de 3](https://scratch.mit.edu/projects/882923231/)
 - [HORAS DE TRABALHO](https://scratch.mit.edu/projects/885215194/)
+
+## A HORA DO CODIGO
+![CERTIFICADO](https://github.com/leandrocsouza12/scratch/blob/main/assets/icons/certificado.jpg)
