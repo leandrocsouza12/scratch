@@ -22,6 +22,7 @@ Leandro Cordeiro de Souza
 - [NOT](https://scratch.mit.edu/projects/888070732/)
 - [AND](https://scratch.mit.edu/projects/888051271/)
 - [ERRO/PORCENTAGEM](https://scratch.mit.edu/projects/901698315/)
+- [PASSOS/KM](https://scratch.mit.edu/projects/901713883/)
 
 ## A HORA DO CODIGO
 ![CERTIFICADO](https://github.com/leandrocsouza12/scratch/blob/main/assets/icons/certificado.jpg)
