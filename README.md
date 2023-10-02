@@ -18,6 +18,9 @@ Leandro Cordeiro de Souza
 - [HORAS DE TRABALHO](https://scratch.mit.edu/projects/885215194/)
 - [Etanol x Gasolina](https://scratch.mit.edu/projects/887262458/)
 - [CALCULADORA](https://scratch.mit.edu/projects/888438592/editor)
+- [OR](https://scratch.mit.edu/projects/888080435/)
+- [NOT](https://scratch.mit.edu/projects/888070732/)
+- [AND](https://scratch.mit.edu/projects/888051271/)
 
 ## A HORA DO CODIGO
 ![CERTIFICADO](https://github.com/leandrocsouza12/scratch/blob/main/assets/icons/certificado.jpg)
